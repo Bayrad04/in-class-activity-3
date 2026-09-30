@@ -6,6 +6,5 @@
 - Item 2
 - Item 3
  
-https://via.placeholder.com/150
- 
+https://placehold.net/1.png 
 https://example.com
